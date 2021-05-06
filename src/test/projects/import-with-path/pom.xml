@@ -14,9 +14,9 @@
     <build>
         <plugins>
             <plugin>
-                <groupId>org.web3j</groupId>
+                <groupId>io.github.zebraofjustice</groupId>
                 <artifactId>web3j-maven-plugin</artifactId>
-                <version>4.2.1-SNAPSHOT</version>
+                <version>4.8.1.zebraofjustice</version>
                 <configuration>
                     <packageName>model</packageName>
                     <sourceDestination>src/test/generated</sourceDestination>

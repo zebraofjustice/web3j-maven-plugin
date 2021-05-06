@@ -13,7 +13,7 @@ the java classes into the folder `src/main/java`.
 <build>
     <plugins>
         <plugin>
-            <groupId>org.web3j</groupId>
+            <groupId>io.github.zebraofjustice</groupId>
             <artifactId>web3j-maven-plugin</artifactId>
             <version>4.8.1.zebraofjustice</version>
             <configuration>
@@ -57,7 +57,7 @@ Create a standard java maven project. Add following `<plugin>` - configuration i
 
 ```xml
 <plugin>
-    <groupId>org.web3j</groupId>
+    <groupId>io.github.zebraofjustice</groupId>
     <artifactId>web3j-maven-plugin</artifactId>
     <version>4.8.1.zebraofjustice</version>
     <configuration>

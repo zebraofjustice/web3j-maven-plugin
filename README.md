@@ -136,6 +136,9 @@ within a multi-module project.
 
 
 ## Changelog
+### 4.8.1.zebraofjustice
+ * [issue 63](https://github.com/web3j/web3j-maven-plugin/issues/63)
+
 ### 4.8.1
  * Update web3j core version to 4.8.1
 
